@@ -40972,7 +40972,7 @@ Taylorize
 Taylorizes
 Taylors
 Tchaikovsky
-tea
+Tea
 teach
 teachable
 teacher
@@ -41695,6 +41695,7 @@ tinnily
 tinniness
 tinny
 tins
+tinsel
 Tinseltown
 tint
 tinted
